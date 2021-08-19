@@ -5,4 +5,4 @@ The methods that were used are:
  - Stochastic Gradient Descent to optimize weights with the mean square error (MSE) function
  - Kahn's algorithm to sort the nodes to topological order
 The dataset used on the project was from the [Mnist](http://yann.lecun.com/exdb/mnist/)
-The project was based on the tensorflow structure, with model and the dense layer.=
+The project was based on the [Tensorflow Framework](https://www.tensorflow.org/) structure, with model and the dense layer
